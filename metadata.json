@@ -1,0 +1,7 @@
+{
+  "name": "Pakque - HR & Labour Relations Partner",
+  "description": "A robust HR and Labour Relations management system featuring smart attendance tracking, automated payroll, and AI-driven workforce auditing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
